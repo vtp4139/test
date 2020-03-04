@@ -3,3 +3,8 @@ ABC ABC ABC ABC ABC ABC ABC
 Cout<<"Hello World";
 Printf("Hello World");
 Console.Writeln("Hello World");
+
+for(int i = 0 ; i<1 ; i++)
+{ 
+  cout<<"ABC";
+}
