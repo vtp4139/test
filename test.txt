@@ -1,3 +1,5 @@
 ABC ABC ABC ABC ABC ABC ABC
 
-We have so many fun !!!
+Cout<<"Hello World";
+Printf("Hello World");
+Console.Writeln("Hello World");
